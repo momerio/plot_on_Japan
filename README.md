@@ -5,6 +5,14 @@
 
 `$pip install pylab`
 
+## 使用方法
+`prefecture_data.txt` に行区切りで都道府県を入力します．
+
+`plot.py` を実行します．
+
+`map.png` にマップイメージを出力します．
+また，`count_data.csv` に都道府県の個数を出力します．
+
 ## 使用例
 
 ```
