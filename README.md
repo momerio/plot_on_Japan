@@ -28,7 +28,8 @@
 
 ↑こんなデータを↓にする
 
-![map](map.png)
+<!-- ![map](map.png) -->
+<img src="map.png" width="50%" height="auto" alt="map">
 
 ## 参考にさせていただいたサイト
 https://www.jcsc.co.jp/tech_blog/archives/50
